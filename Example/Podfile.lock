@@ -1,0 +1,16 @@
+PODS:
+  - TelephonyInfo (0.1.0)
+
+DEPENDENCIES:
+  - TelephonyInfo (from `../`)
+
+EXTERNAL SOURCES:
+  TelephonyInfo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TelephonyInfo: 623a8beb2b19bbd119f115f9c00d3d149cd5eae0
+
+PODFILE CHECKSUM: 96c535bf809b753d5c8c00e4d87c32a3c2225447
+
+COCOAPODS: 1.7.5

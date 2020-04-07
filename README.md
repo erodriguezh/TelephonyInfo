@@ -1,9 +1,5 @@
 # TelephonyInfo
 
-[![CI Status](https://img.shields.io/travis/erodriguezh/TelephonyInfo.svg?style=flat)](https://travis-ci.org/erodriguezh/TelephonyInfo)
-[![Version](https://img.shields.io/cocoapods/v/TelephonyInfo.svg?style=flat)](https://cocoapods.org/pods/TelephonyInfo)
-[![License](https://img.shields.io/cocoapods/l/TelephonyInfo.svg?style=flat)](https://cocoapods.org/pods/TelephonyInfo)
-[![Platform](https://img.shields.io/cocoapods/p/TelephonyInfo.svg?style=flat)](https://cocoapods.org/pods/TelephonyInfo)
 
 ## Example
 
@@ -22,7 +18,7 @@ pod 'TelephonyInfo'
 
 ## Author
 
-erodriguezh, taishogun@gmail.com
+erodriguezh
 
 ## License
 

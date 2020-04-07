@@ -1,0 +1,6 @@
+framework module TelephonyInfo {
+  umbrella header "TelephonyInfo-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -9,5 +9,6 @@
 @import UIKit;
 
 @interface DEMOViewController : UIViewController
+@property (strong, nonatomic) IBOutlet UILabel *outputView;
 
 @end
